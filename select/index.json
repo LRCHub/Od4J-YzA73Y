@@ -1,0 +1,192 @@
+{
+  "version": 1,
+  "base_track": "ORIGINAL",
+  "base_artist": "DUSTCELL",
+  "createdAt": "2025-12-02T00:25:24.174308Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
+      "artist": "Doja Cat",
+      "has_synced": true,
+      "path": "select/01_Vegas_(From_the_Original_Motion_Picture_Soundtrack_ELVIS)_Doja_Cat.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Almost Persuaded - Original King Recordings",
+      "artist": "David Houston",
+      "has_synced": true,
+      "path": "select/02_Almost_Persuaded_-_Original_King_Recordings_David_Houston.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Folsom Prison Blues - Original",
+      "artist": "Johnny Cash",
+      "has_synced": false,
+      "path": "select/03_Folsom_Prison_Blues_-_Original_Johnny_Cash.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I Will Always Love You (from the Original Motion Picture Soundtrack Album, \"The Best Little Whorehouse In Texas\")",
+      "artist": "Dolly Parton",
+      "has_synced": true,
+      "path": "select/04_I_Will_Always_Love_You_(from_the_Original_Motion_Picture_Soundtrack_Album,__The__Dolly_Parton.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I Will Always Love You - Original Version",
+      "artist": "Dolly Parton",
+      "has_synced": true,
+      "path": "select/05_I_Will_Always_Love_You_-_Original_Version_Dolly_Parton.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I Will Always Love You (Original Version)",
+      "artist": "Dolly Parton",
+      "has_synced": true,
+      "path": "select/06_I_Will_Always_Love_You_(Original_Version)_Dolly_Parton.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I Will Always Love You (Original Version)",
+      "artist": "Dolly Parton",
+      "has_synced": true,
+      "path": "select/07_I_Will_Always_Love_You_(Original_Version)_Dolly_Parton.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Prisoner of Love (Original Karaoke)",
+      "artist": "宇多田ヒカル",
+      "has_synced": true,
+      "path": "select/08_Prisoner_of_Love_(Original_Karaoke)_宇多田ヒカル.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "轨迹(Original Karaoke)",
+      "artist": "周杰伦",
+      "has_synced": true,
+      "path": "select/09_轨迹(Original_Karaoke)_周杰伦.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "黑色柳丁 (original voice recorder ideas)",
+      "artist": "陶喆",
+      "has_synced": false,
+      "path": "select/10_黑色柳丁_(original_voice_recorder_ideas)_陶喆.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Apocalypso (original)",
+      "artist": "Rolo Tomassi",
+      "has_synced": false,
+      "path": "select/11_Apocalypso_(original)_Rolo_Tomassi.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "California Love (Original Version)",
+      "artist": "2Pac",
+      "has_synced": true,
+      "path": "select/12_California_Love_(Original_Version)_2Pac.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Ernten was wir säen - Original Version",
+      "artist": "Die Fantastischen Vier",
+      "has_synced": true,
+      "path": "select/13_Ernten_was_wir_säen_-_Original_Version_Die_Fantastischen_Vier.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Ernten was wir säen (Original Version)",
+      "artist": "Die Fantastischen Vier",
+      "has_synced": true,
+      "path": "select/14_Ernten_was_wir_säen_(Original_Version)_Die_Fantastischen_Vier.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Jean Genie (Original Single Mix)",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/15_The_Jean_Genie_(Original_Single_Mix)_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "You Got Me (Original Version) (Feat. Jill Scott)",
+      "artist": "The Roots",
+      "has_synced": true,
+      "path": "select/16_You_Got_Me_(Original_Version)_(Feat._Jill_Scott)_The_Roots.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "#1 Crush (Original Mix)",
+      "artist": "Garbage",
+      "has_synced": true,
+      "path": "select/17_1_Crush_(Original_Mix)_Garbage.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Amazing (Original)",
+      "artist": "Young Thug feat. Jacquees",
+      "has_synced": false,
+      "path": "select/18_Amazing_(Original)_Young_Thug_feat._Jacquees.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ORIGINAL RESONANCE",
+      "artist": "聖川真斗 (鈴村健一) & 一ノ瀬トキヤ (宮野真守)",
+      "has_synced": false,
+      "path": "select/pl_01_ORIGINAL_RESONANCE_聖川真斗_(鈴村健一)_&_一ノ瀬トキヤ_(宮野真守).txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ORIGINAL RESONANCE",
+      "artist": "聖川真斗 (鈴村健一) & 一ノ瀬トキヤ (宮野真守)",
+      "has_synced": false,
+      "path": "select/pl_02_ORIGINAL_RESONANCE_聖川真斗_(鈴村健一)_&_一ノ瀬トキヤ_(宮野真守).txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "ORIGINAL RESONANCE",
+      "artist": "聖川真斗 (鈴村健一) & 一ノ瀬トキヤ (宮野真守)",
+      "has_synced": false,
+      "path": "select/pl_03_ORIGINAL_RESONANCE_聖川真斗_(鈴村健一)_&_一ノ瀬トキヤ_(宮野真守).txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "ORIGINAL RESONANCE",
+      "artist": "聖川真斗 (鈴村健一) & 一ノ瀬トキヤ (宮野真守)",
+      "has_synced": false,
+      "path": "select/pl_04_ORIGINAL_RESONANCE_聖川真斗_(鈴村健一)_&_一ノ瀬トキヤ_(宮野真守).txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "ORIGINAL RESONANCE",
+      "artist": "聖川真斗 (鈴村健一) & 一ノ瀬トキヤ (宮野真守)",
+      "has_synced": false,
+      "path": "select/pl_05_ORIGINAL_RESONANCE_聖川真斗_(鈴村健一)_&_一ノ瀬トキヤ_(宮野真守).txt"
+    }
+  ]
+}
